@@ -1,0 +1,10 @@
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft Server.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft_Server.Form1.resources
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft_Server.Properties.Resources.resources
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft Server.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\bin\Debug\Minecraft Server.exe.config
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\bin\Debug\Minecraft Server.exe
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\bin\Debug\Minecraft Server.pdb
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft Server.exe
+C:\Users\ASUS\Documents\Proyectos C#\Minecraft Server\Minecraft Server\obj\Debug\Minecraft Server.pdb
